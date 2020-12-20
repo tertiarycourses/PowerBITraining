@@ -1,5 +1,5 @@
 # Power BI Business Analytics Training
-## by [Tertiary Infotech Pte. Ltd](https://www.tertiarycourses.com.sg/)
+## by [Tertiary Courses](https://www.tertiarycourses.com.sg/)
 
 These are the exercise files used for [Power BI Business Analytics Training](https://www.tertiarycourses.com.sg/power-bi-business-analytics-training.html) course. 
 
